@@ -27,3 +27,14 @@ I have collaborated with researchers from Capital One Research and the Army Rese
 Before joining UMD, I worked at Microsoft where I led the Europe, Middle East, and Africa division of Azure Kubernetes Support Engineering with offices in Portual, Romania, Israel, and Jordan. Prior to that I worked on the TLC team in Microsoft Research. Before to my time at Microsoft I served as a Captain in the United States Army and was selected for a leadership development program at Goldman Sachs where I focused on improving notional pricing for structured products.
 
 I hold a Bachelors of Science in Computer Science from the United States Military Academy. For more details, you can view my [CV](/assets/pdf/Resume.pdf).
+
+
+My latest project is on dynamic guardrails for language models:
+
+<a href="https://taruschirag.github.io/DynaGuard" target="_blank">
+  <img src="assets/img/tomg_twitter.jpg" alt="Profile Picture" style="max-width: 250px; border-radius: 8px; margin-bottom: 1em;">
+</a>
+
+Check it out at [https://montehoover.github.io/DynaGuard/](https://taruschirag.github.io/DynaGuard/)
+
+
