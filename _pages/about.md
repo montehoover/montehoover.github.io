@@ -20,7 +20,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 I am a PhD candidate in Computer Science at the [University of Maryland, College Park](https://www.umd.edu/), advised by Professors [Tom Goldstein](https://www.cs.umd.edu/~tomg/) and [Ramani Duraiswami](https://www.cs.umd.edu/people/ramanid). 
-My research focuses on AI safety in language models and on long context reasoning and efficiency. In the safety space I work on guardrails for language models and agentic systems, with a focus on complex and nuances scenarios where current guardrails fail. I also work on reasoning capabilities in sub-quadratic attention mechanisms with a focus on approximate nearest neighbors search and Taylor series attention kernels.
+My research focuses on AI safety in language models and on long context reasoning and efficiency. In the safety space I work on guardrails for language models and agentic systems, with a focus on complex and nuanced scenarios where current guardrails fail. I also work on reasoning capabilities in sub-quadratic attention mechanisms with a focus on approximate nearest neighbors search and Taylor series attention kernels.
 
 I have collaborated with researchers from Capital One Research and the Army Research Laboratory and my work is supported by a National Physical Science Consortium fellowship.
 
