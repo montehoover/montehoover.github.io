@@ -3,12 +3,12 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: Alex
+first_name: Monte
 middle_name:
-last_name: Stein
-email: astein0@umd.edu
+last_name: Hoover
+email: mhoover4@umd.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Alex Stein's personal website.
+  Monte Hoover's personal website.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
@@ -17,7 +17,7 @@ keywords: jekyll, jekyll-theme, academic-website, portfolio-website  # add your 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: prof_pic.jpg # ⚛️  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
-url: https://alexstein0.github.io # the base hostname & protocol for your site
+url: https://montehoover.github.io # the base hostname & protocol for your site
 baseurl: #/al-folio # the subpath of your site, e.g. /blog/. Leave blank for root
 last_updated: true # set to true if you want to display last updated in the footer
 impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
@@ -66,17 +66,17 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: alexstein0 # your GitHub user name
+github_username: montehoover # your GitHub user name
 gitlab_username: # your GitLab user name
-x_username: alex_stein0 # your X handle
-twitter_username: alex_stein0
+x_username: MonteBHoover # your X handle
+twitter_username: MonteBHoover
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
-linkedin_username: alexander-stein1 # your LinkedIn user name
+linkedin_username: montebhoover # your LinkedIn user name
 telegram_username: # your Telegram user name
-scholar_userid: StkYBUEAAAAJ # your Google Scholar ID
+scholar_userid: 8M9dxrIAAAAJ # your Google Scholar ID
 semanticscholar_id: # your Semantic Scholar ID
 whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
-orcid_id: # your ORCID ID
+orcid_id: 0000-0002-8685-8360 # your ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username
 publons_id: # your ID on Publons
@@ -272,8 +272,8 @@ display_categories: ['blockquotes'] # these categories will be displayed on the 
 
 scholar:
 
-  last_name: [Stein]
-  first_name: [Alex]
+  last_name: [Hoover]
+  first_name: [Monte]
 
   style: apa
   locale: en
