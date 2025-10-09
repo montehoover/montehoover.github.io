@@ -9,10 +9,10 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>Iribe 2108</p>
-    <p>8125 Paint Branch Dr,</p>
-    <p>College Park, MD 20742</p>
+  # more_info: >
+  #   <p>Iribe 2108</p>
+  #   <p>8125 Paint Branch Dr,</p>
+  #   <p>College Park, MD 20742</p>
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
@@ -32,7 +32,7 @@ I hold a Bachelors of Science in Computer Science from the United States Militar
 My latest project is on dynamic guardrails for language models:
 
 <a href="https://taruschirag.github.io/DynaGuard" target="_blank">
-  <img src="assets/img/tomg_twitter.jpg" alt="Profile Picture" style="max-width: 250px; border-radius: 8px; margin-bottom: 1em;">
+  <img src="assets/img/tomg_twitter.png" alt="DynaGuard chart" style="max-width: 250px; border-radius: 8px; margin-bottom: 1em;">
 </a>
 
 Check it out at [https://montehoover.github.io/DynaGuard/](https://taruschirag.github.io/DynaGuard/)
