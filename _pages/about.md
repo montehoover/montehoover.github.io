@@ -31,9 +31,15 @@ I hold a Bachelors of Science in Computer Science from the United States Militar
 
 My latest project is on dynamic guardrails for language models:
 
+<div style="text-align: center;">
 <a href="https://taruschirag.github.io/DynaGuard" target="_blank">
-  <img src="assets/img/tomg_twitter.png" alt="DynaGuard chart" style="max-width: 250px; border-radius: 8px; margin-bottom: 1em;">
+  <img src="assets/img/tomg_twitter.png" alt="DynaGuard chart" style="max-width: 320px; border-radius: 8px; margin-bottom: 1em;">
 </a>
+</div>
+
+<!--
+[![DynaGuard chart](assets/img/tomg_twitter.png)](https://taruschirag.github.io/DynaGuard)
+-->
 
 Check it out at [https://montehoover.github.io/DynaGuard/](https://taruschirag.github.io/DynaGuard/)
 
