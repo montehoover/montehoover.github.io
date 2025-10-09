@@ -272,8 +272,8 @@ display_categories: ['blockquotes'] # these categories will be displayed on the 
 
 scholar:
 
-  last_name: [Hoover]
-  first_name: [Monte]
+  last_name: [] # put your last name here like [Hoover]
+  first_name: [] # put your first name here like [Monte]
 
   style: apa
   locale: en
